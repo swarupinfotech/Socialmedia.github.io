@@ -1,6 +1,6 @@
 # Swarupinfotech-app
 simple chatting app designed with html, css and js
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Swarup and I'm a Software Engineer, from  Ranchi Jharkhand.</h2>
 
 ###
 
